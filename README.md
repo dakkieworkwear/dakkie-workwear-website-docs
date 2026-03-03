@@ -47,3 +47,12 @@ The **Dakkie Workwear website** is a professional e-commerce and informational p
 - **Version Control:** GitHub
 - **Development Tools:** VS Code, LocalWP, Git CLI
 - **Design Tools:** Figma (for wireframes), Photoshop/Illustrator (for assets)
+
+---
+
+## Repository Structure
+
+This repository follows a clear and organized structure to ensure maintainability, Scalabilty, and ease of collaboration. Each directory has a defined purpose to help developers quickly understand where to find or add content.
+
+dakkie-workwear-website-docs/ |--- README.md
+# Primary documentation entry point
