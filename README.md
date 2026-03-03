@@ -23,4 +23,27 @@ The **Dakkie Workwear website** is a professional e-commerce and informational p
 ## Objectives
 - Build a **responsive and scalable website** for Dakkie Workwear.
 - Maintain **clean and modular code** for easy future updates.
-- Implement **user-friendly navigation** amd e-commerce features.
+- Implement **user-friendly navigation** and e-commerce features.
+- Provide **documentation for developers** to streamline onboarding and maintenance.
+
+---
+
+## Project Scope
+**In Scope:**
+- Frontend: Product pages, homepages, contact forms
+- Backend: WordPress CMS, MySQL database
+- Integration with payment and shipping solutions
+
+**Out of Scope**
+- Mobile application
+- Third-party API integrations beyond standard e-commerce
+
+---
+
+## Technologies & Tools
+- **Platform:** WordPress
+- **Frontend:** HTML5, CSS3, JavaScript, jQuery
+- **Backend:** PHP, MySQL
+- **Version Control:** GitHub
+- **Development Tools:** VS Code, LocalWP, Git CLI
+- **Design Tools:** Figma (for wireframes), Photoshop/Illustrator (for assets)
