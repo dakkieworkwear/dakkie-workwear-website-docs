@@ -67,3 +67,13 @@ dakkie-workwear-website-docs/
 │ ├── logos # Brand logos and variations
 │ ├── wireframes # UI wireframes and mockups
 │ └── images # Website and documentation images
+
+---
+
+## System Design
+## Wireframes
+
+- **Homepage:** Displays featured products, company info, and navigation.
+- **Product pages:** Detailed product images, description, and pricing.
+- **Contact page:** Form for inquiries
+- **Sitemap included in /docs/sitemap.md
