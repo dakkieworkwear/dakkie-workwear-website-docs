@@ -33,10 +33,13 @@ This project documents the design, development, and deployment of the official D
 ---
 
 ## Objectives
-- Build a **responsive and scalable website** for Dakkie Workwear.
-- Maintain **clean and modular code** for easy future updates.
-- Implement **user-friendly navigation** and e-commerce features.
-- Provide **documentation for developers** to streamline onboarding and maintenance.
+- Design and document a professional business website
+- Apply real-world web development standards
+- Implement clear information
+- architecture and sitemap
+- Ensure scalability and maintainability
+- Demonstrate WordPress best practices
+- Produce developer-friendly documentation for GitHub
 
 ---
 
