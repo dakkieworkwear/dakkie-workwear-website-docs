@@ -12,6 +12,26 @@ The documentation is intended for **developers, designers, and technical stakeho
 
 ---
 
+## Project Status
+
+🟢 **Active Development**  
+
+### Website Versioning
+
+The Dakkie Workwear website follows semantic versioning to track
+design, structure, and functionality changes.
+
+**Current Version:** `v1.0.0`
+
+### Versioning Guide
+- **Major (X.0.0):** Significant redesigns or platform changes
+- **Minor (1.X.0):** New pages, UI/UX improvements, feature additions
+- **Patch (1.0.X):** Bug fixes, content updates, minor adjustments
+
+Version updates are documented through GitHub commits and releases.
+
+---
+
 ## Business Objectives
 
 The objectives of this project are to:
@@ -31,12 +51,13 @@ The objectives of this project are to:
 - Website information architecture and sitemap
 - UI/UX design standards and branding guidelines
 - WordPress-based website architecture
+- Online payment processing
+- Inventory and logistics system integration
 - Developer documentation and deployment guidance
 - Content structure and page hierarchy
 
 ### Excluded
-- Online payment processing
-- Inventory and logistics system integration
+
 - Mobile application development
 
 ---
@@ -106,13 +127,6 @@ Designs and wireframes are maintained in **Figma**.
 5. Content integration  
 6. Testing and optimization  
 7. Deployment and monitoring  
-
----
-
-## Project Status
-
-🟢 **Active Development**  
-Documentation and website structure are actively maintained.
 
 ---
 
