@@ -71,7 +71,7 @@ This project documents the design, development, and deployment of the official D
 - **Version Control:** Git, GitHub
 - **Design Tools:** Figma (for wireframes), Photoshop / Illustrator (for assets)
 - **Development Tools:** VS Code, LocalWP, Git CLI
-- **Deployment:** GoDaddy web hosting
+- **Deployment:** Cloud hosting
 
 ---
 
@@ -107,9 +107,54 @@ dakkie-workwear-website-docs/
 
 ## UI/UX Guidelines
 
-- Brand colours: Dark Earth (#5C4033), Black (#000000), White (#FFFFFF)
-- Fonts: Montserrat (headings), Red Hat Display (body)
-- Logo: Small placement on product pages, full placement in header
+### Colour Palette
+
+- **Primary Background:** White (#FFFFFF)
+- **Primary Text:** Black (#000000)
+- **Accent Colour:** Dark Earth Brown
+
+### Typography
+
+- Heading: Red Hat Display (Bold)
+- Body Text: Anonymous Pro
+- Buttons: Uppercase, High Contrast
+
+### Design Principles
+
+- Minimalist layout
+- High readability
+- Mobile-first design
+- Consistent spacing and alignment
+- Professional workwear aesthetic
+
+---
+
+## WordPRess Architecture
+
+### Theme Structure
+
+- Custom WordPress theme
+- Modular template files
+- Reusable components
+
+### Recommended Plugins
+
+- SEO plugin
+- Security plugin
+- Caching plugin
+- Image optimization plugin
+
+---
+
+## Development Workflow
+
+1. Requirements analysis
+2. Sitemap creation
+3. UI/UX design planning
+4. WordPress theme setup
+5. Content integration
+6. Testing and optimization
+7. Deployment
 
 ---
 
