@@ -1,183 +1,70 @@
-# Dakkie Workwear Website Documentation (Developer Guide)
-
-## Table of contents
-1. [project Overview](#project-overview)
-2. [Objectives](#objectives)
-3. [Project Scope](#project-scope)
-4. [Target Audience](#target-audience)
-5. [Technologies & Tools](#technologies--tools)
-6. [Repository Structure](#repository-structure)
-7. [Setup & Installation](#setup--installation)
-8. [Development Workflow](#development-workflow)
-9. [Coding Standards](#coding-standards)
-10. [Deployment & Hosting](#deployment--hosting)
-11. [Versioning & Releases](#versioning--releases)
-12. [Author & Contact](#author--contact)
+# 0  
+## Official Website Development Documentation
 
 ---
 
-## Project Overview
+## Overview
 
-**Project Name:** Dakkie Workwear Website Development
+This repository contains the **official website development documentation** for **Dakkie (Pty) Ltd**.  
+It serves as a central reference for the planning, design, development, deployment, and future maintenance of the Dakkie Workwear website.
 
-**Project Type:** Business Website
-
-**Platform:** WordPress
-
-**Project Focus:** Corporate & E-commerce Workwear Website
-
-**Repository Purpose:** Technical and project documentation for developers and stakeholders
-
-This project documents the design, development, and deployment of the official Dakkie Workwear website. The website is intended to present the brand professionally, showcase workwear products, and provide a scalable foundation for future e-commerce functionality.
+The documentation is intended for **developers, designers, and technical stakeholders** involved in building and maintaining the company’s digital presence.
 
 ---
 
-## Objectives
-- Design and document a professional business website
-- Apply real-world web development standards
-- Implement clear information
-- architecture and sitemap
-- Ensure scalability and maintainability
-- Demonstrate WordPress best practices
-- Produce developer-friendly documentation for GitHub
+## Business Objectives
+
+The objectives of this project are to:
+
+- Establish a professional online presence for Dakkie (Pty) Ltd
+- Clearly present Dakkie Workwear products and brand identity
+- Provide a scalable website structure for future growth
+- Ensure consistency in UI/UX and branding
+- Enable efficient collaboration between developers and stakeholders
+- Maintain clear and reusable technical documentation
 
 ---
 
 ## Project Scope
-**In Scope:**
-- Design and development of website pages
-- Implementation of responsive layout (desktop, tablet, mobile)
-- Integration of company branding (logo, color, fonts)
-- Integration with payment and shipping solutions
-- Documentation for deployment, setup, and maintenance
 
-**Out of Scope**
-- Mobile application
-- Third-party API integrations beyond standard e-commerce
+### Included
+- Website information architecture and sitemap
+- UI/UX design standards and branding guidelines
+- WordPress-based website architecture
+- Developer documentation and deployment guidance
+- Content structure and page hierarchy
 
----
-
-## Target Audience
-
-- Mechanics, industrial workers, and construction professionals
-- Retailers and distributors of workwear
-- Online customers looking for durable workwear
+### Excluded
+- Online payment processing
+- Inventory and logistics system integration
+- Mobile application development
 
 ---
 
-## Technologies & Tools
-- **Frontend:** HTML5, CSS3, JavaScript, jQuery
-- **Backend:** PHP (WordPress CMS), MySQL
-- **Version Control:** Git, GitHub
-- **Design Tools:** Figma (for wireframes), Photoshop / Illustrator (for assets)
-- **Development Tools:** VS Code, LocalWP, Git CLI
-- **Deployment:** Cloud hosting
+## Target Users
+
+- Construction and industrial professionals
+- Corporate and wholesale clients
+- Retail customers
+- Website administrators
+- Developers and technical partners
+
+---
+
+## Technology Stack
+
+| Layer | Technology |
+|-----|-----------|
+| CMS | WordPress |
+| Frontend | HTML5, CSS3, JavaScript |
+| Backend | PHP |
+| Database | MySQL |
+| Version Control | Git & GitHub |
+| Design | Figma |
+| Hosting | Cloud / Shared Hosting |
 
 ---
 
 ## Repository Structure
 
-This repository follows a clear and organized structure to ensure maintainability, Scalabilty, and ease of collaboration. Each directory has a defined purpose to help developers quickly understand where to find or add content.
-
-dakkie-workwear-website-docs/
-├── README.md # Primary documentation entry point
-├── LICENSE # Project license (CC BY-NC 4.0)
-├── /docs # Core project documentation
-│ ├── project-charter.md # Project vision, objectives, and scope
-│ ├── requirements.md # Functional and non-functional requirements
-│ ├── sitemap.md # Website structure and navigation flow
-│ ├── design-guidelines.md # Branding, UI/UX, and visual standards
-│ └── deployment.md # Deployment process and environment details
-├── /assets # Visual and supporting assets
-│ ├── logos # Brand logos and variations
-│ ├── wireframes # UI wireframes and mockups
-│ └── images # Website and documentation images
-
----
-
-## System Design
-## Wireframes
-
-- **Homepage:** Displays featured products, company info, and navigation.
-- **Product pages:** Detailed product images, description, and pricing.
-- **Contact page:** Form for inquiries
-- **Sitemap included in** /docs/sitemap.md
-
----
-
-## UI/UX Guidelines
-
-### Colour Palette
-
-- **Primary Background:** White (#FFFFFF)
-- **Primary Text:** Black (#000000)
-- **Accent Colour:** Dark Earth Brown
-
-### Typography
-
-- Heading: Red Hat Display (Bold)
-- Body Text: Anonymous Pro
-- Buttons: Uppercase, High Contrast
-
-### Design Principles
-
-- Minimalist layout
-- High readability
-- Mobile-first design
-- Consistent spacing and alignment
-- Professional workwear aesthetic
-
----
-
-## WordPRess Architecture
-
-### Theme Structure
-
-- Custom WordPress theme
-- Modular template files
-- Reusable components
-
-### Recommended Plugins
-
-- SEO plugin
-- Security plugin
-- Caching plugin
-- Image optimization plugin
-
----
-
-## Development Workflow
-
-1. Requirements analysis
-2. Sitemap creation
-3. UI/UX design planning
-4. WordPress theme setup
-5. Content integration
-6. Testing and optimization
-7. Deployment
-
----
-
-## Implementation
-
-- WordPress installed locally via LocalWP.
-- Custom theme created following design guidelines.
-- Product catalog and pages added according to requirements.
-- Responsive testing done for desktop, tablet, and mobile.
-- GitHub repository used for version control with *main* and *dev* branches.
-
-## Testing & Quality Assurance
-
-- Cross-browser testing: Chrome, Firefox, Edge
-- Responsive testing on multiple screen sizes
-- Usability testing: Ensured navigation is intuitive
-- Functionality testing: Contact forms, links, payments, and buttons working
-
----
-
-## Deployment & Hosting
-
-- Hosting environment: Godaddy Basic Plan Hosting Service
-- Deployment steps documented in */docs/deployment.md*
-- Backup strategy: Weekly backups to cloud storage
-- Domain: www.dakkie.co.za
+The repository is organized to ensure clarity, maintainability, and scalability.
