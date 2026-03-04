@@ -19,9 +19,13 @@
 ## Project Overview
 
 **Project Name:** Dakkie Workwear Website Development
+
 **Project Type:** Business Website
+
 **Platform:** WordPress
+
 **Project Focus:** Corporate & E-commerce Workwear Website
+
 **Repository Purpose:** Technical and project documentation for developers and stakeholders
 
 This project documents the design, development, and deployment of the official Dakkie Workwear website. The website is intended to present the brand professionally, showcase workwear products, and provide a scalable foundation for future e-commerce functionality.
