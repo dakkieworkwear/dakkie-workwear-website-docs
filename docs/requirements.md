@@ -197,9 +197,69 @@ Administrators must be able to manage customer orders.
 
 ### 3.3 Security
 
-- HTTPS must be enforced
-- WordPress core, themes and plugins must be kept up to date
-- Form submissions must be protected against spam
-- Basic security plugins should be implemented.
+The Website must ensure secure handling of user data.
+
+*Security measures include:*
+
+- HTTPS ebcryption
+- Secure password storage
+- Protection against unauthorized access
+- Secure payment processing
+
+### 3.4 Usability
+
+The website must provide a professional user experience.
+
+*Requirements include:*
+
+- Clean and madern user interface
+- easy navigation
+- Mobile-friendly design
+- Consistent branding
+
+### 3.5 Reliability
+
+The website must maintain stable operation with minimal downtime.
+
+---
+
+## 4. System Requirements
+
+### 4.1 Software Requirements
+
+The website will be built using:
+
+- WordPress CMS
+- WooCommerce
+- HTML5
+- CSS3
+- JavaScript
+- MySQL Database
+
+### 4.2 Hosting Requirements
+
+The system requires:
+
+- Web hosting server
+- Domain name
+- SSL certificate
+
+---
+
+## 5. Future Enhancements
+
+*Future versions of the Dakkie Workwear website may include:*
+
+- Mobile shopping application
+- Customer reviews and ratings
+- Product recommendation system
+- Loyalty rewards program
+
+---
+
+## 6. Version Information
+
+Document Version: **1.0**
+Last Update: **March 2026**
 
 
