@@ -13,7 +13,7 @@ The documentation is intended for **developers, designers, and technical stakeho
 
 ## Project Status
 
-🟢 **Active Development**  
+**Active Development**  
 
 ### Website Versioning
 
