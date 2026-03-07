@@ -105,3 +105,139 @@ The data layer stores all persistent website data.
 
 *The website consists of several key components:*
 
+### Web Server
+
+Hosts the website and handles HTTPS requests from users.
+
+### WordPress CMS
+
+Manage website content and structure.
+
+### WooCommerce Plugin
+
+Provide the e-commerce finctionality including:
+
+- Product management
+- Cart system
+- Checkout system
+- Order management
+
+### Payment Gateway
+
+Handles secure payment transactions during checkout.
+
+### Email System
+
+Sends automated emails for:
+
+- Account registration
+- Order confirmation
+- Password reset
+- Contact form enquiries
+
+---
+
+## 5. User Interaction Flow
+
+Typical user interaction with the website follows this flow:
+
+1. User visits the website homepage
+2. User browses product categories
+3. User views product details
+4. User adds products to cart
+5. User proceeds to checkout
+6. User logs in or registers an account
+7. User completes payment
+8. System confirms the order
+
+---
+
+## 6. Security Architecture
+
+Security is essential for protecting user data and transactions.
+
+*The website implements the following security mechanisms:
+
+- HTTPS encryption
+- Secure password hashing
+- WordPress security plugins
+- Spam protection for forms
+- Regular software updates
+
+---
+
+## 7. Deployment Architecture
+
+The website will be deployed on a web hosting server with the following components:
+
+- Webs server (Apache or Nginx)
+- PHP Runtime Environment
+- MySQL Database Server
+- SSL Certificate
+
+The deployment ensures that the website is accessible through the internet via a registered domain.
+
+---
+
+## 8. Scalability Considerations 
+
+*The system architecture allows future expansion such as:*
+
+- Increased product inventory
+- Higher websites traffic
+- Advanced e-commerce features
+- Integration with external services
+- Mobile application integration
+
+---
+
+## 9. Future Architectural Improvements
+
+Future versions of the Dakkie Workwear platform may include:
+
+- API-based architecture
+- Mabile applications
+- Inventory management integration
+- Customer analytics systems
+- Advanced caching and CDN services
+
+---
+
+## 10. Architecture Diagram (Recommended)
+
+It is recommended to include a system architecture diagram in this section to visually represent:
+
+- User interaction
+- Web server
+- WordPress backend
+- Database
+- Payment gateway
+
+**Example components in the diagram:**
+
+User
+
+  ↓
+  
+Web Browser
+
+  ↓
+  
+Web Server
+
+  ↓
+  
+WordPress + WooCommerce
+
+  ↓
+  
+MySQL Database
+
+---
+
+## Document Information
+
+Version: **1.0.0**
+Last Update: **March 2026**
+
+---
