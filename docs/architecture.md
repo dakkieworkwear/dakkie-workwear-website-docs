@@ -213,7 +213,7 @@ It is recommended to include a system architecture diagram in this section to vi
 - Database
 - Payment gateway
 
-**Example components in the diagram:**
+**components in the diagram:**
 
 User
 
