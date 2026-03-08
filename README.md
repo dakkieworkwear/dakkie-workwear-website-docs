@@ -186,6 +186,15 @@ Users can then browse products, create accounts, and purchase workwear items thr
 
 ---
 
+## Project Documentation
+
+- [Requirements](docs/requirements.md)
+- [Architecture](docs/architecture.md)
+- [Sitemap](docs/sitemap.md)
+- [Deployment Guide](docs/deployment.md)
+
+---
+
 ## Author
 
 ### Project Manager & Developer
