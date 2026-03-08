@@ -110,7 +110,6 @@ The repository includes several documentation files describing the system design
 
 *Repository structure:*
 
-│
 ├── README.md
 
 ├── requirements.md
@@ -120,5 +119,5 @@ The repository includes several documentation files describing the system design
 ├── deployment.md
 
 ├── sitemap.md
-│
+
 └── docs
