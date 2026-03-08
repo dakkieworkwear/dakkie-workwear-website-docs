@@ -111,11 +111,19 @@ The repository includes several documentation files describing the system design
 *Repository structure:*
 
 │
+
 ├── README.md
+
 ├── LICENSE
+
 │
+
 └── docs/
+
     ├── requirements.md
+    
     ├── architecture.md
+    
     ├── sitemap.md
+    
     ├── deployment.md
