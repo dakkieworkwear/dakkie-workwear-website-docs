@@ -124,3 +124,73 @@ The repository includes several documentation files describing the system design
     ├── sitemap.md
     
     ├── deployment.md
+
+---
+
+## Installation
+
+The Dakkie Workwear website is deployed in a **live hosting environment** and does not require local installation for general use.
+
+The platform is accessible through a public domain once deployment is completed.
+
+### Live Deployment Environment
+
+| **Component** | **Technology** |
+|---------------|----------------|
+| Content Management System | WordPress|
+| E-Commerce Platform | WooCommerce |
+| Backend Language | PHP |
+| Database | MySQL |
+| Web Server | Apache / Nginx |
+| Security | SSL (HTTPS) |
+
+### Deployment Steps
+
+*The website is deployed using the following process:*
+
+1. Configure a web hosting server.
+2. Install **WordPress CMS** on the server.
+3. Install and configure **WooCommerce**.
+4. Upload the Dakkie Workwear theme and website assets.
+5. Configure the database connection.
+6. Set up the domain name and DNS records.
+7. Enable SSL to secure the website.
+8. Configure products, pages, and payment gateways.
+
+### Accessing the Website
+
+Once deployed, the website can be accessed via the official domain: https://www.dakkie.co.za
+
+Users can then browse products, create accounts, and purchase workwear items through the online store.
+
+### Maintenance
+
+*To ensure stability and security, the following maintenace tasks must be performed regularly:*
+
+- Update WordPress core and plugins
+- Monitor website performance
+- Perform regular database backups
+- Apply security patches when required
+
+---
+
+## Future Improvements
+
+*Future enhancements may include:*
+
+- Mobile application integration
+- Advanced product filtering
+- Inventory management system
+- Customer analytics dashboard
+- API-based architecture
+
+---
+
+## Author
+
+### Project Manager & Developer
+
+Makondo Lulama Lupin
+
+Project: Web Systems Development
+
