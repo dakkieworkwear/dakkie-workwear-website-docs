@@ -112,9 +112,13 @@ The repository includes several documentation files describing the system design
 
 │
 ├── README.md
+
 ├── requirements.md
+
 ├── architecture.md
+
 ├── deployment.md
+
 ├── sitemap.md
 │
 └── docs
