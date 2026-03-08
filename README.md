@@ -83,7 +83,7 @@ Customers can track their orders through their account dashboard.
 
 ## System Architecture
 
-*Thes project follows a **three-tier architecture model:**
+*Thes project follows a **three-tier architecture model:***
 
 1. **Presentation Layer** - User interface and frontend interaction
 2. **Appliation Layer** - Backend logic and website functionality
@@ -110,11 +110,11 @@ The repository includes several documentation files describing the system design
 
 *Repository structure:*
 
-|
-|---- README.md
-|---- requirements.md
-|---- architecture.md
-|---- deployment.md
-|---- sitemap.md
-|
-|---- docs
+│
+├── README.md
+├── requirements.md
+├── architecture.md
+├── deployment.md
+├── sitemap.md
+│
+└── docs
